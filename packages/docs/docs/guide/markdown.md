@@ -167,7 +167,7 @@ Danger zone, do not proceed
 **Input**
 
 ````
-``` js{4}
+``` js {4}
 export default {
   data () {
     return {
